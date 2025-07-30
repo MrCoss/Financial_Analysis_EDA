@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual Environment folders
+venv/
+env/
+.venv/
+ENV/
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# Mac OS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Data and Plots (optional)
+*.csv
+*.xlsx
+*.xls
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Security
+.env
+.env.*
+
+# VSCode Jupyter settings (optional)
+.vscode/settings.json
